@@ -1,0 +1,1 @@
+streamlit run exoplanet.py
